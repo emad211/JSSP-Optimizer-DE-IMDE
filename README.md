@@ -20,8 +20,6 @@ This repository contains an implementation of **Differential Evolution (DE)** an
 ├── 📁 result for imde         # Results of IMDE experiments
 ├── 📜 Classic DE.py           # Classic Differential Evolution implementation
 ├── 📜 imde.py                 # IMDE implementation
-├── 📜 results_summary.csv     # Final results summary
-├── 📜 results_summary.txt     # Text summary of results
 └── 📜 README.md               # Project documentation
 ```
 
